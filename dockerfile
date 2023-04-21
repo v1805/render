@@ -1,4 +1,4 @@
-FROM v1805/lighthouse
+FROM lightdash/lightdash
 
 ARG RENDER_EXTERNAL_URL
 
