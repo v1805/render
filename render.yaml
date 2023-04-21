@@ -9,7 +9,7 @@ services:
   - type: web
     plan: free
     env: docker
-    name: lightdash-server
+    name: lighthouse-server
     dockerContext: .
     dockerfilePath: dockerfile
     envVars: 
