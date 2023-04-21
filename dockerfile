@@ -1,4 +1,4 @@
-FROM v1805/lighthouse:latest
+FROM v1805/lighthouse
 
 ARG RENDER_EXTERNAL_URL
 
