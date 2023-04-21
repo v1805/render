@@ -1,4 +1,4 @@
-FROM lightdash/lightdash
+FROM vishalpatil34356/lighthouse
 
 ARG RENDER_EXTERNAL_URL
 
