@@ -1,4 +1,4 @@
-FROM vishalpatil34356/lighthouse
+FROM vishalpatil34356/lighthouse:latest
 
 ARG RENDER_EXTERNAL_URL
 
